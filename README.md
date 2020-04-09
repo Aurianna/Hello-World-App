@@ -2,6 +2,7 @@
 <style>
   #u1{
     color: red;
+    font-size: 30px;
              }
   </style>
 <main><h1> Hello World</h1></main>
